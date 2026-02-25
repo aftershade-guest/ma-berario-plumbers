@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { Wrench, Zap, Check } from 'lucide-react';
-import { PLUMBING_SERVICES, ELECTRICAL_SERVICES } from '../constants';
+import { PLUMBING_SERVICES, ELECTRICAL_SERVICES } from '../constants.tsx';
 
 const Services: React.FC = () => {
   return (

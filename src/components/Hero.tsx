@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { PhoneCall, CheckCircle, Clock } from 'lucide-react';
-import { BUSINESS_INFO } from '../constants';
+import { BUSINESS_INFO } from '../constants.tsx';
 
 const Hero: React.FC = () => {
   return (
